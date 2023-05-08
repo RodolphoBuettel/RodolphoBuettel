@@ -4,8 +4,8 @@
 ##
 
 - 🌱 Atualmente, estou aprendendo **Next.js e Segurança de Informação**
-
 - 💬 Pergunte-me sobre... Qualquer coisa
+- 
 <div>
   <div>
     <h2>Linguagens de programação</h2>
