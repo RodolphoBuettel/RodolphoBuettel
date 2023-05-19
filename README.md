@@ -3,9 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/rodolpho05buettel@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dn.danielbernardino@gmail.com "Connect via Email")
 ##
 
-- 🌱 Atualmente, estou aprendendo **Next.js e Segurança de Informação**
+- 🌱 Formado em desenvolvimento fullstacj pela **Driven Education**
 - 💬 Pergunte-me sobre... Qualquer coisa
-- 
+
 <div>
   <div>
     <h2>Linguagens de programação</h2>
